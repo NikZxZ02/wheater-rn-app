@@ -22,6 +22,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "8a91ad4a-36de-4e3b-9883-57ab78a3cb3d"
+      }
+    },
+    "owner": "nicolas_hidalgo"
   }
 }
