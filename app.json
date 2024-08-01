@@ -6,6 +6,7 @@
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
+    "scheme":"metacritic",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
@@ -29,6 +30,9 @@
         "projectId": "8a91ad4a-36de-4e3b-9883-57ab78a3cb3d"
       }
     },
-    "owner": "nicolas_hidalgo"
+    "owner": "nicolas_hidalgo",
+    "plugins": [
+      "expo-router"
+    ]
   }
 }
